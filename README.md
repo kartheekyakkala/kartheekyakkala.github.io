@@ -1,7 +1,10 @@
 # Machine Learning Operations Engineer
 
+###Objective
 **Objective**
 Software Engineer with strong coding and problem-solving skills, seeking an internship position.
+
+###Education
 **Education**
 Master’s in Computer Science,Aug 2023 - May 2025
 University of Central Missouri, Aug 2017 - July 2021
